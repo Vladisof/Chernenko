@@ -1,0 +1,243 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-image-1 {
+  width: 94px;
+  height: 94px;
+  margin: 18px auto 0;
+}
+
+.u-section-1 .u-line-1 {
+  width: 912px;
+  margin: 120px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 246px;
+  width: 939px;
+  height: auto;
+  margin: 12px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 58px 60px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-style: italic;
+  font-family: "Great Vibes";
+  font-weight: 700;
+  font-size: 3.75rem;
+  width: 510px;
+  margin: 4px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 126px;
+  height: 126px;
+  margin: 12px auto 0 348px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: -101px 366px 0 491px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 3.75rem;
+  font-family: miamanueva;
+  font-weight: 700;
+  width: 788px;
+  margin: 42px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 27px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 49px;
+    padding-right: 49px;
+  }
+
+  .u-section-1 .u-text-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 13px;
+    margin-left: 265px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-top: -111px;
+    margin-right: 252px;
+    margin-left: 405px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 52px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-line-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 31px;
+    padding-right: 31px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 151px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 148px;
+    margin-left: 289px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 720px;
+    margin-top: 61px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-line-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.3333333333333333rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.8125rem;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 15px;
+    margin-left: 69px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.6666666666666665rem;
+    margin-top: -113px;
+    margin-right: 58px;
+    margin-left: 199px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 3rem;
+    width: auto;
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1336px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 64px;
+    height: 64px;
+    margin-top: 53px;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-top: 86px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 125px;
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.125rem;
+    margin-top: 5px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.34375rem;
+    width: auto;
+    margin-top: 46px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 26px;
+    margin-left: -36px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.5rem;
+    margin-top: -101px;
+    margin-right: -50px;
+    margin-left: 107px;
+  }
+
+  .u-section-1 .u-text-4 {
+    font-size: 1.875rem;
+    margin-top: 51px;
+  }
+}
+/* page-custom-fonts */
+@font-face {
+  font-family: 'miamanueva';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/miamanueva.otf);
+}
